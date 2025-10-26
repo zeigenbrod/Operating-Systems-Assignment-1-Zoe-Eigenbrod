@@ -1,6 +1,5 @@
 # Project 1 README
 
-### This program was made in C.
 
 ## Files Included
 
