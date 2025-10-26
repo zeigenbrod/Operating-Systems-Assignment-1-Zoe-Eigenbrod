@@ -1,5 +1,7 @@
 # Project 1 README
 
+### This program was made in C.
+
 ## Files Included
 
 producer.c - The producer process code. Generates item and puts in buffer.
