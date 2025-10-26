@@ -20,4 +20,6 @@ $ gcc consumer.c -pthread -lrt -o consumer
 ### 2. Run
 $ ./producer & ./consumer &
 
+### Note: Need to run in Unix/Linux terminal
+
 
